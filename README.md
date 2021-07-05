@@ -4,3 +4,5 @@ Recently, the Indian-American Abhimanyu Mishra became the [youngest Grandmaster]
 
 Jupyter NBViewer allows a better visualization, as you can see [HERE](https://nbviewer.jupyter.org/github/italojsoliveira/data_analysis_chess_gm/blob/main/ChessGM.ipynb).
 Alternatively, to directly access the notebook in Google Colab, click [HERE](https://colab.research.google.com/drive/1-YoO6jmjIG3BXmvMzXCOjSP0QKIMRO_Z?usp=sharing).
+
+This blog post presents and discusses the results: [A Descriptive Data Analysis about the Chess Grandmasters](https://notsoshortnotes.wordpress.com/2021/07/05/a-descriptive-data-analysis-about-the-chess-grandmasters/).
